@@ -1,0 +1,44 @@
+C:\tmp1\BlobApp\BlobApp\bin\Debug\net6.0\BlobApp.exe
+C:\tmp1\BlobApp\BlobApp\bin\Debug\net6.0\BlobApp.deps.json
+C:\tmp1\BlobApp\BlobApp\bin\Debug\net6.0\BlobApp.runtimeconfig.json
+C:\tmp1\BlobApp\BlobApp\bin\Debug\net6.0\BlobApp.dll
+C:\tmp1\BlobApp\BlobApp\bin\Debug\net6.0\ref\BlobApp.dll
+C:\tmp1\BlobApp\BlobApp\bin\Debug\net6.0\BlobApp.pdb
+C:\tmp1\BlobApp\BlobApp\bin\Debug\net6.0\Azure.Core.dll
+C:\tmp1\BlobApp\BlobApp\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\tmp1\BlobApp\BlobApp\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\tmp1\BlobApp\BlobApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp1\BlobApp\BlobApp\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\tmp1\BlobApp\BlobApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\tmp1\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.csproj.AssemblyReference.cache
+C:\tmp1\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp1\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.AssemblyInfoInputs.cache
+C:\tmp1\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.AssemblyInfo.cs
+C:\tmp1\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.csproj.CoreCompileInputs.cache
+C:\tmp1\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.csproj.CopyComplete
+C:\tmp1\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.dll
+C:\tmp1\BlobApp\BlobApp\obj\Debug\net6.0\ref\BlobApp.dll
+C:\tmp1\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.pdb
+C:\tmp1\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.genruntimeconfig.cache
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\bin\Debug\net6.0\BlobApp.exe
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\bin\Debug\net6.0\BlobApp.deps.json
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\bin\Debug\net6.0\BlobApp.runtimeconfig.json
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\bin\Debug\net6.0\BlobApp.dll
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\bin\Debug\net6.0\BlobApp.pdb
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.csproj.AssemblyReference.cache
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.AssemblyInfoInputs.cache
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.AssemblyInfo.cs
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.csproj.CoreCompileInputs.cache
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.csproj.CopyComplete
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.dll
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\obj\Debug\net6.0\refint\BlobApp.dll
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.pdb
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.genruntimeconfig.cache
+C:\Users\AishwaryaB\Downloads\Resources\Lab - .NET - Blob lease\BlobApp\BlobApp\obj\Debug\net6.0\ref\BlobApp.dll
