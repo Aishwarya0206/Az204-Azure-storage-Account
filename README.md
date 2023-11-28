@@ -19,3 +19,17 @@
   1. Creating entities (Adding the rows)
   2. Querying the entities (Fetching the required rows from a particular partition)
   3. Deleting an entity
+
+**Az copy tool**
+_**Use case**_: Unfortunately created the storage account in region a, instead of region b. Then we can make use of Az copy tool to migrate data. 
+  1. Create a container
+  2. Upload a blob
+  3. Download a blob
+
+**Note:**
+**Shared Access Signatures**
+  1. Storage account level
+  2. Container level
+  3. Blob level
+  4. Policy level
+  5. User delegation (related with azure active directory)
