@@ -1,0 +1,51 @@
+//az login --tenant 604c1504-c6a3-4080-81aa-b33091104187
+
+//az storage account management-policy create --account-name "azstorageacc204" --policy Policy.json --resource-group "learn-cfc91d5b-b98c-4e7b-a777-1048afbcc1a5"
+
+Example 1:
+{
+  "rules": [
+    {
+      "enabled": true,
+      "name": "move-to-cool",
+      "type": "Lifecycle",
+      "definition": {
+        "actions": {
+          "baseBlob": {
+            "tierToCool": {
+              "daysAfterModificationGreaterThan": 30
+            }
+          }
+        },
+        "filters": {
+          "blobTypes": [
+            "blockBlob"
+          ],
+          "prefixMatch": [
+            "sample-container/log"
+          ]
+        }
+      }
+    }
+  ]
+}
+
+Example 2:
+{
+  "rules": [ {  "name": "ruleFoo",  "enabled": true,  "type": "Lifecycle",
+      "definition": {
+        "filters": { "blobTypes": [ "blockBlob" ],"prefixMatch": [ "container1/foo" ] },
+        "actions": {
+          "baseBlob": {
+            "tierToCool": { "daysAfterModificationGreaterThan": 30 },
+            "tierToArchive": { "daysAfterModificationGreaterThan": 90 },
+            "delete": { "daysAfterModificationGreaterThan": 2555 }
+          },
+          "snapshot": {
+            "delete": { "daysAfterCreationGreaterThan": 90 }
+          }
+        }
+      }
+    }
+  ]
+}
