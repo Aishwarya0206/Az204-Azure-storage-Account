@@ -25,6 +25,8 @@ _**Use case**_: Unfortunately created the storage account in region a, instead o
   1. Create a container
   2. Upload a blob
   3. Download a blob
+  4. Sync
+  5. Sync with deleted files capture
 
 **Note:**
 **Shared Access Signatures**
