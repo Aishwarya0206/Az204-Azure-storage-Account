@@ -13,9 +13,9 @@ namespace QueueApp
     {
         static async Task Main(string[] args)
         {
-            string connectionString = Environment.GetEnvironmentVariable("AZURE_STORAGE_CONNECTION_STRING");
+            //string connectionString = Environment.GetEnvironmentVariable("AZURE_STORAGE_CONNECTION_STRING");
 
-            QueueClient queue = new QueueClient(connectionString, "first");
+            QueueClient queue = new QueueClient(DefaultEndpointsProtocol=https;AccountName=testaz204azstorage1;AccountKey=NSqVjN60M6H8Hyeo+TnsUlx0IKT43t7PKA9wfkzPvaZojd/zpR6Z2J6iL8I+GrrVKHyQ/FYj7zya+AStbpJYlA==;EndpointSuffix=core.windows.net, "first");
 
             if (args.Length > 0)
             {
